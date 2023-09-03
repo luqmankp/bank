@@ -1,0 +1,20 @@
+front-end
+html  css  javascript
+
+
+back-end
+
+server
+database - mongo database
+
+api- application programing interface
+
+https
+
+request types
+
+post   - to store data        register
+get    - to access data       login,balance check
+put    - complete updation    change full ac details
+patch  - partial updation     deposit / withdraw
+delete - to delete data       delete ac
